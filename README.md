@@ -7,3 +7,8 @@ Live Activity will be **auto-refreshed** at some specific interval of time, **re
 <br>
 <br>
 <img src="img/PizzaDel.png"/>
+
+<br>
+
+**Technology used**:<br>
+*UIKit, SwiftUI, ActivityKit, AVFoundation*
